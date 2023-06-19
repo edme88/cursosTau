@@ -1,0 +1,15 @@
+{
+    "name": "jestcourse",
+    "version": "1.0.0",
+    "description": "Curso de Jest en Tau universiti",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "test:watch": "jest --watchAll"
+    },
+    "author": "Agus Edme",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.5.0"
+    }
+}
